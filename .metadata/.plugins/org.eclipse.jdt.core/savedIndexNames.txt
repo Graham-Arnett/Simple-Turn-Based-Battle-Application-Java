@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\repos\max\practice\java\TriangleDraw\.metadata\.plugins\org.eclipse.jdt.core
+3661727006.index
+1865797976.index
+2591351341.index
